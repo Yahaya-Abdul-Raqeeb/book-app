@@ -1,20 +1,17 @@
-*{
-  margin: 0;
-padding: 0;  
-}
+@import url(reset.css);
 .app{
   display: flex;
   min-height: 100%;
   flex-direction: column;
 
 }
-/* main{
+ main{
   flex: 1;
- } */
+ } 
 .appbar{ 
   padding:0 30px;
 }
-.navbar-fixed{
+/* .navbar-fixed{
   background-color: teal;
   height: 8;
 }
@@ -53,9 +50,9 @@ form{
   max-width: 700px;
   margin: 20px auto;
   border-radius: 5px;
-  /*height: 40vh;*/
+  /*height: 40vh;
 }
 
 form input{
   height: 40px;
-}
+} */

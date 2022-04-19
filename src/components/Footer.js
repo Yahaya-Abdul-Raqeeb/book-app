@@ -7,9 +7,10 @@ function Footer() {
     
     
     <div className='container'>
-    &copy; Books 2022</div>
+    &copy; Books 2022
     
     <a href='#' className='grey-text text-lighten-4 right'>PreMEST</a>
+    </div>
     </div>
     </footer>
   )
